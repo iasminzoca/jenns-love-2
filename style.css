@@ -24,15 +24,15 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
-    font-weight: 600;
+    color: #69c746;
+    font-weight: 700;
 }
 
 .inicio-fundo {
     /* aula 3 */
     background-image: url('s-l1200.png');
     /* Substitua pelo caminho da sua imagem */
-    background-size: cover;
+    background-size: back;
     background-position: right;
     border-radius: 80px;
     width: 65%;
