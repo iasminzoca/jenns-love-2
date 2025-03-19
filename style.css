@@ -30,13 +30,13 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('4965007.jpg');
+    background-image: url('s-l1200.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
-    width: 100%;
-    height: 606px;
+    width: 65%;
+    height: 500px;
     padding: 40px;
     margin: 0 auto;
 }
