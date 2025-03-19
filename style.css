@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #2aff58;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #21b55e;
 }
 
 body {
@@ -32,11 +32,11 @@ section {
     /* aula 3 */
     background-image: url('s-l1200.png');
     /* Substitua pelo caminho da sua imagem */
-    background-size: back;
+    background-size: cover;
     background-position: right;
     border-radius: 80px;
     width: 65%;
-    height: 500px;
+    height: 100px;
     padding: 40px;
     margin: 0 auto;
 }
