@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #4a8f3c;
 }
 
 
@@ -102,7 +102,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #328341;
 
 }
 
@@ -120,7 +120,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #388148;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -137,7 +137,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #63a95c;
 }
 .menu-acessibilidade{
     position: fixed;
