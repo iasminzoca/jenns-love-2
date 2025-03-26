@@ -107,12 +107,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('Anthony\ Salzarulo.jpeg') bottom right no-repeat;
+    background: bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('s-l1200.png');
+    background-image: url('Anthony\ Salzarulo.jpeg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
