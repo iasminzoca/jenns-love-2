@@ -29,15 +29,14 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
     background-image: url('dc06fda6-1850-42ad-b330-28045c4ba552.jpeg');
     background-size: auto;
     background-position: right;
     border-radius: 95px;
     width: 100%;
     height: 50px;
-    padding: 100px;
-    margin: 0 auto;
+    padding: 50px;
+    margin: auto;
 }
 
 /* posicionamento para a imagem à direita */
