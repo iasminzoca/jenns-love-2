@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --meio-verde: #35b751;
-    --alto-contraste-fundo: #294623;
-    --alto-contraste-texto: #6c9847;
-    --alto-contraste-link: #21b55e;
+    --meio-verde: #3680bc;
+    --alto-contraste-fundo: #193365;
+    --alto-contraste-texto: #073359;
+    --alto-contraste-link: #171f3b;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #4a8f3c;
+    background-color: #395a98;
 }
 
 
@@ -24,18 +24,18 @@ section {
 
 
 .nav-link {
-    color: #59ab3b;
+    color: #284c8a;
     font-weight: 700;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('s-l1200-removebg-preview.png');
+    background-image: url('dc06fda6-1850-42ad-b330-28045c4ba552.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
-    width: 65%;
+    width: 50%;
     height: 100px;
     padding: 40px;
     margin: 0 auto;
@@ -74,17 +74,15 @@ section {
 }
 
 
-#celtics {
+#sabrina {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('trevo.jpg') top right no-repeat,
-        url('boston-celtics.svg') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
-#celtics .container {
+#sabrina .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -102,7 +100,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #328341;
+    background-color: #2e4f89;
 
 }
 
@@ -112,7 +110,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('Anthony\ Salzarulo.jpeg');
+    background-image: url('Sebrena\ 💋.jpeg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -120,7 +118,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #388148;
+    background-color: #1a4a79;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -131,13 +129,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #45ac43;
+    background-color: #464d95;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #63a95c;
+    background-color: #465fa4;
 }
 .menu-acessibilidade{
     position: fixed;
