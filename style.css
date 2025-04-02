@@ -4,7 +4,7 @@
 :root {
     --meio-verde: #3680bc;
     --alto-contraste-fundo: #193365;
-    --alto-contraste-texto: #073359;
+    --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #171f3b;
 }
 
@@ -44,7 +44,7 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 10;
+    right: 100;
     top: 18rem;
     width: 45rem;
     height: auto;
